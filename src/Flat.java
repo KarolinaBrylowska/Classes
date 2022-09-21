@@ -11,8 +11,20 @@ public class Flat {
     public int getFloor () {
         return floor;
     }
+    public String getCity  () {
+        return city;
+    }
+    public Boolean getBalcony () {
+        return balcony;
+    }
 
-    {
+    public void setBalcony(boolean balcony) {
+        this.balcony = balcony;
+    }
 
+    public void setCity(String city) {
+        this.city = city;
     }
 }
+
+
