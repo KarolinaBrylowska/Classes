@@ -10,8 +10,10 @@ public class Apartments {
         System.out.println("Mieszkanie1:" +mieszkanie1.getBalcony());
         mieszkanie1.setCity("Gdynia");
         System.out.println("Mieszkanie1:" +mieszkanie1.getCity());
-        Flat mieszkanie2 = new Flat(0, "Gdynia", false);
-        mieszkanie2.setFloor(7);
-        System.out.println(mieszkanie2.getFloor());
+        Flat mieszkanie2 = new Flat(7, "Gdańsk", false);
+        mieszkanie2.setFloor(2);
+
+        System.out.println("Mieszkanie 2: " + mieszkanie2.getFloor());
+        System.out.println("Mieszkanie 2: " + mieszkanie2.getCity());
     }
 }

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="187cd1b8-7ff0-4904-b838-be14651a8a62" name="Changes" comment="added class and public int floor">
+    <list default="true" id="187cd1b8-7ff0-4904-b838-be14651a8a62" name="Changes" comment="need some changes code (in Apartments)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Apartments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Apartments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Flat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Flat.java" afterDir="false" />
@@ -30,13 +30,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Apartments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Apartments" />
@@ -67,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663781395951</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added new settings to class Apartments and Flat">
+      <created>1663783520056</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663783520056</updated>
+    </task>
+    <task id="LOCAL-00003" summary="need some changes code (in Apartments)">
+      <created>1663784392774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663784392774</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,6 +97,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added class and public int floor" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class and public int floor" />
+    <MESSAGE value="added new settings to class Apartments and Flat" />
+    <MESSAGE value="need some changes code (in Apartments)" />
+    <option name="LAST_COMMIT_MESSAGE" value="need some changes code (in Apartments)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Apartments.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
